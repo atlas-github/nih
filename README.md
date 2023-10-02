@@ -8,6 +8,13 @@
 
 ## [nih_handson_participants_opt1.ipynb](https://github.com/atlas-github/nih/blob/main/nih_handson_participants_opt1.ipynb)
 
-What are the differences?
+1. This notebook is for:
+2. After clicking the link above, look for the button ![Open in Colab](https://github.com/atlas-github/nih/assets/50855923/2bc9497c-af85-494a-98d5-d3fd13f5393a)
+3. Next, look for the button ![Copy to Drive](https://github.com/atlas-github/nih/assets/50855923/0ec94644-7525-4949-97ba-45e572eff37b) to make a copy of the notebook in your Drive
+4. This notebook is now stored in your Drive
 
 ## [nih_handson_participants_opt2.ipynb](https://github.com/atlas-github/nih/blob/main/nih_handson_participants_opt2.ipynb)
+1. This notebook is for:
+2. After clicking the link above, look for the button ![Open in Colab](https://github.com/atlas-github/nih/assets/50855923/2bc9497c-af85-494a-98d5-d3fd13f5393a)
+3. Next, look for the button ![Copy to Drive](https://github.com/atlas-github/nih/assets/50855923/0ec94644-7525-4949-97ba-45e572eff37b) to make a copy of the notebook in your Drive
+4. This notebook is now stored in your Drive
