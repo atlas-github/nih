@@ -1,4 +1,4 @@
-# National Institutes of Health (NIH) AI Symposium, Setia Alam
+# National Institutes of Health (NIH) AI Symposium
 
 1. Start by opening any internet browser
 2. Sign in to your Google account (using either your personal or work account)
