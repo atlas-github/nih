@@ -3,6 +3,7 @@
 1. Start by opening any internet browser
 2. Sign in to your Google account (using either your personal or work account)
 3. Head to https://tinyurl.com/nih2024 OR https://github.com/atlas-github/nih/
+4. You can type your questions here: https://app.sli.do/event/tjYndzE3At9vMPJkwdcktW
 
 # Open either file (trainer to decide)
 
